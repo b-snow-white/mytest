@@ -2,8 +2,8 @@
 """
 Created on Mon Apr  2 20:10:31 2018
 
-@author: Administrator
-"""
+@作者：baixue
+“””
 
 from tkinter import Frame,Button,Tk,Menu,Entry,StringVar,IntVar
 import tkinter.ttk as a #ttk模块Style对象可以设置控件的样式
